@@ -3,4 +3,4 @@ My first repository on GitHub
 ===
 words are wordy
 
-this is version 2
+this is version 3
